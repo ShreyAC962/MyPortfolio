@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "SCU Frugal Innovation Hub",
+    "startDate": "Oct, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Developed a bilingual (English-Spanish) educational science app for Android and iOS, collaborating with cross-functional teams to deliver interactive lessons, quizzes, and games with real-time progress tracking, boosting engagement and retention.",
+      "Engineered a scalable backend (Node.js, MongoDB) and integrated Firebase for real-time sync, ensuring a seamless user experience. Built cross-browser UI/UX (Flutter, Figma, JavaScript), boosting engagement by 35%.",
+      "Achieved 92% test coverage with Jest for 15+ features. Led Agile sprints, optimizing features and workflows, improving team productivity by 27%. Integrated text-to-speech Spanish voiceovers for accessibility and multilingual learning."
+    ],
+    "imageSrc": "history/frugal.png"
+  },
+  {
+    "role": "Software Developer Intern",
+    "organisation": "Virtusa",
+    "startDate": "Sept, 2022",
+    "endDate": "May, 2023",
+    "experiences": [
+      "Built and enhanced backend RESTful APIs using Java, Spring Boot, and Hibernate for a customer support automation system that processed live telecom queries. Implemented logic for ticketing and escalations, improving response time by 48%.",
+      "Designed and integrated data storage solutions with MySQL for structured transactional data and Apache Cassandra for handling high-volume unstructured logs, ensuring high availability and fault tolerance.",
+      "Containerized the application with Docker and deployed it to AWS EC2, utilizing S3 for storage and CloudWatch for monitoring, enabling seamless CI/CD and reducing infrastructure maintenance time."
+    ],
+    "imageSrc": "history/virtusa.png"
+  }
+]
